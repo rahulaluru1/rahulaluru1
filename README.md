@@ -1,6 +1,5 @@
 ### Hello!
 
-My name is Rahul Aluru.
 - 🌱 I’m currently learning TypeScript and GraphQL.
 - 🔭 I’m currently working on MERN and MEAN Stack.
 - 📫 Reach me at: rahulaluru3@gmail.com.
