@@ -1,5 +1,9 @@
-### Hi there 👋
+### Hello!
 
+My name is Rahul Aluru.
+- 🌱 I’m currently learning TypeScript and GraphQL.
+- 🔭 I’m currently working on MERN and MEAN Stack.
+- 📫 Reach me at: rahulaluru3@gmail.com.
 <!--
 **rahulaluru1/rahulaluru1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
