@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning TypeScript and GraphQL.
 - 🔭 I’m currently working on MERN and MEAN Stack.
 - 📫 Reach me at: rahulaluru3@gmail.com.
+[![Rahul's github stats](https://github-readme-stats.vercel.app/api?username=rahulaluru1)](https://github.com/rahulaluru1/github-readme-stats)
 <!--
 **rahulaluru1/rahulaluru1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
